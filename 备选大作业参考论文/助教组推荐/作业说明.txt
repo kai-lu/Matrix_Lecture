@@ -1,0 +1,20 @@
+﻿文献1：
+1、实现文献中提到的信号检测方法，包括：传统V-BLAST算法、无排序的QR分解算法、有排序的QR分解算法，并且写出3个算法的伪代码。
+2、比较三个算法的计算复杂度，并画出Fig.2。
+3、利用实现的算法，仿真多天线信号传输的误码率，画出Fig.3。
+
+文献2：
+1、写出文中SVD-VM算法的伪代码；
+2、仿真得到Simulation1中结果，即Fig.1 和 Fig.2中SVD和SVD-VM两个算法的性能曲线;
+3、仿真得到Simulation3中结果，即Fig.4中SVD和SVD-VM两个算法的性能曲线。 
+
+文献3：
+1、正确介绍Fig.1框图各个模块的作用，并写出各模块的伪代码；
+2、分析自己所选取的svd算法的复杂度，并复原Fig.2;
+3、至少复原Fig.3的abh三张图。
+
+文献4：
+1、写出文中预编码算法的伪代码；
+2、写出用power iteration算法求最大特征值和特征向量的伪代码；
+3、仿真得到Fig.3中Optimal unconstrained precoding和Proposed SIC-based precoding两个算法的性能曲线。
+

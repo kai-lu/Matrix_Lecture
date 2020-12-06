@@ -1,0 +1,10 @@
+本课程中涉及到大量计算，尤其是高复杂度的数值计算。建议大家充分利用已有的计算工具，帮助自己深入理解知识，也为后续工作打基础。
+
+推荐的编程语言&科学计算工具有基于Wolfram Engine的WolframScript和Python的Numpy函数库，两个均免费，且功能强大、稳定。前者配合着Jupyter使用，效果最好，适合单行或者少数几行的快速计算，且在此场景下，几乎可以替代Mathematica（Wolfram的商用科学计算软件）；后者更灵活，适合编写具有复杂逻辑的代码库，完成大型项目。作业中，不限制使用什么软件，完成任务即可。比如，很多人可能更习惯Mathworks家的Matlab，当然也可以选择它来辅助完成作业。
+
+参考：
+https://www.wolfram.com/engine/
+https://zhuanlan.zhihu.com/p/168098091
+
+https://nbviewer.jupyter.org/github/ageron/handson-ml/blob/master/math_linear_algebra.ipynb?tdsourcetag=s_pctim_aiomsg
+https://numpy.org/doc/stable/reference/routines.linalg.html

@@ -1,0 +1,18 @@
+图书可以到Library Genesis 图书馆创世纪搜索、下载。因为种种原因，网址可能会改变，请大家自己搜索Library Genesis
+https://librarygenesis.net/zh/
+http://gen.lib.rus.ec/
+
+举例：
+Gene H. Golub and Charles F. van Loan, Matrix Computations, 4th Ed., John Hopkins University Press, 2013.的下载可以到这里
+https://libgen.lc/item/index.php?md5=72562A3A733C2E842BE163CA97D0FA7A
+
+视频课程：
+3Blue1Brown的线性代数的本质 
+Gilbert Strang的Introduction to Linear Algebra 
+哈工大严质彬的矩阵分析
+
+公众号：
+机器学习与数学
+
+作者提供公开下载的书籍：
+https://web.stanford.edu/~hastie/ElemStatLearn/

@@ -1,0 +1,58 @@
+\documentclass[a4paper,12pt,twoside]{ctexart}
+\pagestyle{myheadings}\markright{Exercises}
+\pagenumbering{Roman}
+\usepackage{bm}
+\usepackage{amsmath, amssymb, amsfonts, amsthm}
+
+\begin{document}
+
+1. Find the eigenvalues and eignevectors of the matrices
+$$
+\bm{A}=\left[\begin{array}{cc}
+1 & -1 \\
+1 & 1
+\end{array}\right], \quad \bm{B}=\left[\begin{array}{ccc}
+-3 & 1 & -3 \\
+20 & 3 & 10 \\
+2 & -2 & 4
+\end{array}\right]
+$$
+
+2. Determine if either of the following matrices is diagonalizable
+$$
+\bm{A}=\left[\begin{array}{ccc}
+-1 & -1 & -2 \\
+8 & -11 & -8 \\
+-10 & 11 & 7
+\end{array}\right], \quad \bm{B}=\left[\begin{array}{ccc}
+1 & -4 & -4 \\
+8 & -11 & -8 \\
+-8 & 8 & 5
+\end{array}\right]
+$$
+
+3. Estimate the eigenvalues of $\bm{A}=\left[\begin{array}{ccc}5 & 1 & 1 \\ 0 & 6 & 1 \\ 1 & 0 & -5\end{array}\right]$
+
+4. Determine the induced norm $\|A\|_{2}$ as well as $\left\|A^{-1}\right\|_{2}$ for the nonsingular matrix
+$$
+\bm{A}=\frac{1}{\sqrt{3}}\left[\begin{array}{ll}
+3 & -1 \\
+0 & \sqrt{8}
+\end{array}\right]
+$$
+
+5. Let $A \in \mathbb{C}^{m \times n}$. Please prove the following statements.
+(a) $\|A\|_{p}=\max _{\|x\|_{p}=1}\|A x\|_{p}$ is a norm for any $p \geq 1$
+(b) $\|\bm{A} \bm{x}\|_{p} \leq\|\bm{A}\|_{p}\|\bm{x}\|_{p}$ holds for any $p \geq 1$
+(c) $\|A B\|_{p} \leq\|A\|_{p}\|B\|_{p}$ holds for any $p \geq 1$
+(d) $\|\bm{Q} \bm{A} \bm{U}\|_{F}=\|\bm{A}\|_{F}$ holds for any unitary matrices $\bm{Q} \in \mathbb{C}^{m \times m}$ and $\bm{U} \in \mathbb{C}^{n \times n}$
+(e) $\|Q A U\|_{2}=\|A\|_{2}$ holds for any unitary matrices $Q \in \mathbb{C}^{m \times m}$ and $U \in \mathbb{C}^{n \times n}$
+
+6. Using the induced matrix norm, prove that if $A$ is nonsingular, then
+$$
+\min _{\|x\|=1}\|\bm{A} \bm{x}\|=\frac{1}{\left\|\bm{A}^{-1}\right\|}
+$$
+
+7. Let $A \in \mathbb{C}^{m \times n}$ is a Vandemonde matrix with distinct roots. Please verify that any collection of $r$ columns of $\bm{A},$ with $r \leq m,$ is linearly independent.
+
+\end{document}
