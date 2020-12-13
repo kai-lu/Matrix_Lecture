@@ -2,7 +2,13 @@
  ## 高等工程数学/Advanced Engineering Mathematics
 ### 2020-12-07补充说明：
 
-鉴于本周六有其他重要考试，第六章作业延迟到下周四提交。
+TLS的详细介绍，请参考这篇讲义，
+
+http://people.duke.edu/~hpgavin/SystemID/CourseNotes/TotalLeastSquares.pdf
+
+### 2020-12-07补充说明：
+
+鉴于本周六很多同学有其他重要考试，第六章作业延迟到下周四提交。
 
 ### 2020-12-02补充说明：
 
