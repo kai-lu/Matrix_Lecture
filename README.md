@@ -1,10 +1,14 @@
 # Matrix_Lecture
  ## 高等工程数学/Advanced Engineering Mathematics
-### 2020-12-07补充说明：
+### 2020-12-13补充说明：
 
-TLS的详细介绍，请参考这篇讲义，
+TLS的详细介绍，请参考这篇讲义：
 
 http://people.duke.edu/~hpgavin/SystemID/CourseNotes/TotalLeastSquares.pdf
+
+一些关键概念的演示工具可以从这里下载：
+
+http://heath.cs.illinois.edu/iem/
 
 ### 2020-12-07补充说明：
 
