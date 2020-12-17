@@ -1,0 +1,6 @@
+Deflation
+
+http://www.cfm.brown.edu/faculty/gk/AM117/Reading/Deflation/index.html
+
+QR iteration
+https://www.math.kth.se/na/SF2524/matber15/qrmethod.pdf
