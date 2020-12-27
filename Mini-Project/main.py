@@ -142,6 +142,7 @@ def choose_rate(to_present_grp_table, _rating_results_folder):
 
 def collect_rate(current_grp_index, csv_file_dir):
     _rating_list = pd.DataFrame()
+    _rating_list[current_grp_index] = None
     mail_server_class = Fetch_Server()
     mail_server = mail_server_class.active_server
     # stat()返回邮件数量和占用空间:
