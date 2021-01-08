@@ -9,7 +9,7 @@
 
 针对需要改进的地方，下次我将做适当的调整，希望可以为之后的学生带去更好的学习体验。至于“希望保持教学热情”这一点，请放心，兴趣和良知所在，不含糊。
 
-PS: 鉴于同学们需要翻墙才可以下载Github文件，我把这学期Github上的资料转存到了Ondrive上（考试前后的文字更新，仍然以Github为准），大家可以直接下载：
+PS: 鉴于同学们需要翻墙才可以下载Github文件，我把这学期Github上的资料转存到了Onedrive上（考试前后的文字更新，仍然以Github为准），大家可以直接下载：
 
 https://portland-my.sharepoint.com/:f:/g/personal/kailu2-c_my_cityu_edu_hk/EudVUk4cbBxIqa8rmkXL8WYBmo50BmXlo3C8_DnyoDhDKg?e=n0WUtI
 
